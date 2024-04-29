@@ -27,7 +27,7 @@ Enter a word: virus
 mylist=[]
 
 for i in range(5):
-    word = input("Enter a word: ")
+    word = input("Enter a word\n")
     mylist.append(word)
 
 
