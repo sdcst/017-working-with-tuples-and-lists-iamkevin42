@@ -25,3 +25,9 @@ The largest number you entered is 92
 """
 
 
+for i in range(1,11):
+    a = int(input("Enter positive integers\n"))
+    b= max(a)
+    print(b)
+        
+    
